@@ -1,0 +1,10 @@
+*~
+*.swp
+*.box
+*.log
+*.qcow2
+*.raw
+jessie
+sid
+stretch
+wheezy
